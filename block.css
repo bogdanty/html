@@ -1,0 +1,84 @@
+body{
+  background-color: #fafafa;
+  margin: 0px;
+  padding: 0px;
+  color: black;
+}
+header, article{
+  width: calc(100% - 20px);
+  margin: 10px;
+  height: 60px;
+  background-color: #8fe0cc;
+  border-bottom: 2px solid silver;
+  border-top: 2px solid silver;
+  color: #333;
+  float: left;
+  font-family: Comic Sans MS;
+  float: right;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+header{
+  width: 50%;
+  margin-left: 5%;
+  margin-right:13%;
+  position: relative;
+  top: 20px;
+}
+article{
+width: 20%;
+position: relative;
+top: 20px;
+height: 60px;
+}
+h1{
+  color: black;
+}
+#faine{
+  font-size: 20px;
+  font-weight: 700;
+}
+aside{
+  background-color: #fafafa;
+  height: 500px;
+  border-radius: 5px;
+  border: 1px solid silver;
+  box-sizing: border-box;
+  padding: 5%;
+  margin-left:  8%;
+  float: left;
+  width: 80%;
+  margin-top: 40px;
+  background-color: #8fe0cc;
+}
+p{
+  color: black;
+  font-family: Comic Sans MS;
+  text-indent: 0;
+}
+footer{
+  width: 77%;
+   margin: 40px;
+   margin-left: 9%;
+   float: left;
+   height: 200px;
+   background-color: #8fe0cc;
+   border: 1px solid silver;
+   padding: 10px;
+   font-size: 1.2em;
+   color: #333;
+   font-family: Comic Sans MS;
+}
+#foot{
+  font-family: Comic Sans MS;
+  color: black;
+
+}
+textarea, button{
+  display: block;
+}
